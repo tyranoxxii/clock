@@ -30,7 +30,7 @@
     <button onclick="pauseCountdown()">Tạm dừng</button>
     <button onclick="resetCountdown()">Dừng</button>
     <div id="timer">00:00</div>
-    <audio id="tickSound" src="https://www.fesliyanstudios.com/play-mp3/4380" preload="auto"></audio>
+    <audio id="tickSound" src="tic-tac-81751.mp3" preload="auto"></audio>
     
     <script>
         let countdown;
